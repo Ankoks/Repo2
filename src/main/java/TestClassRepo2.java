@@ -3,5 +3,6 @@ public class TestClassRepo2 {
         System.out.println("repo2");
 
         System.out.println("some changes");
+        System.out.println("some changes 2");
     }
 }
